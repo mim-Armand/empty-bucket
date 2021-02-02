@@ -1,0 +1,25 @@
+{
+  "name": "empty-bucket-js",
+  "version": "1.0.1",
+  "description": "This package will provide a method to easily empty an AWS S3 bucket by passing its name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mim-Armand/empty-bucket.git"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "bucket",
+    "empty"
+  ],
+  "author": "mim Armand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mim-Armand/empty-bucket/issues"
+  },
+  "homepage": "https://github.com/mim-Armand/empty-bucket#readme"
+}
